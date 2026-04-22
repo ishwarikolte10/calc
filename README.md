@@ -25,4 +25,4 @@ This project performs basic arithmetic operations with smooth UI interactions.
 
 ---
 
-## 📂 Project Structurev
+## 📂 Project Structure
